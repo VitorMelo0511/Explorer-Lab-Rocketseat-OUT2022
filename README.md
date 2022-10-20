@@ -1,5 +1,7 @@
 <h1 align="center"> Explorer Lab #01 </h1>
 
+Você pode visualizar o projeto através [DESSE LINK](https://explorer-lab-rocketseat.vercel.app/).
+
 <p align="center">
 Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
 </p>
@@ -37,7 +39,7 @@ O Rocketpay é um componente que simula o formulário de preenchimento de cartã
 
 ## 🔖 Layout
 
-Você pode visualizar do projeto através [DESSE LINK](https://explorer-lab-rocketseat.vercel.app/).
+Você pode visualizar o layout do projeto através [DESSE LINK](https://explorer-lab-rocketseat.vercel.app/). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
